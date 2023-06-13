@@ -1,0 +1,2 @@
+Fitness of all:  19.6763
+used time: 30061
